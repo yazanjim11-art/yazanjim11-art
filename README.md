@@ -32,9 +32,3 @@ AI & Data Science Engineer with a background in Computer Vision, Machine Learnin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanjim11-art&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazanjim11-art&layout=compact&theme=radial)
