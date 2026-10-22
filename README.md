@@ -35,11 +35,20 @@ AI & Data Science Engineer with a background in Computer Vision, Machine Learnin
 
 ---
 
-### 📜 Certifications & Courses
+---
 
+### 📜 Certifications & Learning Paths
+
+#### 🏆 Official Certifications
 - 🏅 **Azure AI Fundamentals (AI-900)** – *Microsoft Learn*
+
+#### 🔷 Microsoft Learn Specializations & Badges
+- 🤖 **Generative AI & LLMs:** Generative AI Development, AI Agents, Prompt Engineering & Custom Chatbots.
+- 👁️ **Computer Vision & NLP:** Computer Vision Concepts, Natural Language Processing (NLP), Speech AI & Document Intelligence.
+- ⚙️ **Machine Learning & Azure AI:** Machine Learning Concepts, Model Deployment, Performance Optimization, & Responsible AI.
+
+#### 🎓 Professional Courses & Academies
 - 🐍 **Data Science Essentials with Python** – *Cisco Networking Academy*
-- 🐍 **Python Essentials 1** – *Cisco Networking Academy*
-- 🐍 **Python Essentials 2** – *Cisco Networking Academy*
+- 🐍 **Python Essentials 1 & 2** – *Cisco Networking Academy*
 - ⚡ **Arduino Robotics & Embedded Systems Course** – *Zarqa University*
 - 💻 **Python Programming Course (60 Hours)** – *Tuned Applications*
