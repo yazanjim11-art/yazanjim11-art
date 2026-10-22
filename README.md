@@ -32,3 +32,14 @@ AI & Data Science Engineer with a background in Computer Vision, Machine Learnin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+### 📜 Certifications & Courses
+
+- 🏅 **Azure AI Fundamentals (AI-900)** – *Microsoft Learn*
+- 🐍 **Data Science Essentials with Python** – *Cisco Networking Academy*
+- 🐍 **Python Essentials 1** – *Cisco Networking Academy*
+- 🐍 **Python Essentials 2** – *Cisco Networking Academy*
+- ⚡ **Arduino Robotics & Embedded Systems Course** – *Zarqa University*
+- 💻 **Python Programming Course (60 Hours)** – *Tuned Applications*
