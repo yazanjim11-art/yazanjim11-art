@@ -4,7 +4,7 @@ AI & Data Science Engineer with a background in Computer Vision, Machine Learnin
 
 ---
 <p align="center">
-  <a href="ضع_الرابط_الذي_نسخته_هنا">
+  <a href="https://github.com/yazanjim11-art/yazanjim11-art/blob/main/Yazan%20Aljammal%20%E2%80%93%20CV.pdf">
     <img src="https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
   </a>
 </p>
