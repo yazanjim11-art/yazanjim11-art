@@ -3,6 +3,17 @@
 AI & Data Science Engineer with a background in Computer Vision, Machine Learning, Deep Learning, Mobile Development, and Embedded Systems (IoT).
 
 ---
+<p align="center">
+  <a href="ضع_الرابط_الذي_نسخته_هنا">
+    <img src="https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+  </a>
+</p>
+
+
+
+---
+
+
 
 ### 🚀 About Me
 - 🎓 Graduate in **Artificial Intelligence & Data Science** from Zarqa University.
